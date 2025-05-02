@@ -3,6 +3,9 @@ footer {
     padding-block: 24px;
     gap: 24px;
     margin: 5px;
+    font: 14px/150% var(--font-family);
+    max-width: 100%;
+    height: auto;
 }
 
 footer span:nth-child(1) {
